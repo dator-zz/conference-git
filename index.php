@@ -1,3 +1,3 @@
 <?php
 
-echo time();
+echo levenstein('coucou', array('coucou', 'toto'));
